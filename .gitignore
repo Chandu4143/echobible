@@ -1,0 +1,24 @@
+# Dependencies
+/node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Native directories
+/ios/
+/android/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.env*
+.husky/_/
+coverage/
+.DS_Store
+.expo-dev-cache/
